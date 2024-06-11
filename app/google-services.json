@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220649144379",
+    "project_id": "aj-znab",
+    "storage_bucket": "aj-znab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220649144379:android:f8174e000ac7e043041c1e",
+        "android_client_info": {
+          "package_name": "com.aj.znab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220649144379-nfpe62n6j6fu98amujebnrm7mj3iskho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aj.znab",
+            "certificate_hash": "18b26581b98b0fe85987d39221d8974422de5f01"
+          }
+        },
+        {
+          "client_id": "220649144379-snic0rbk4r2mi6uichkdqo7kc9pq3lta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmfREBHV7hJB-g-gohzSc4LS059xkb9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220649144379-snic0rbk4r2mi6uichkdqo7kc9pq3lta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

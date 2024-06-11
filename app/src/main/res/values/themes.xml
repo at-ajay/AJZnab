@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Znab" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Znab.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo_animation</item>
+        <item name="postSplashScreenTheme">@style/Theme.Znab</item>
+    </style>
+
+</resources>

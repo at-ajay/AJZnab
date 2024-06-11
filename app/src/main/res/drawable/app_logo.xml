@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="288"
+    android:viewportHeight="288">
+
+    <group
+      android:name="app_logo"
+      android:pivotX="144"
+      android:pivotY="144">
+
+      <path
+          android:pathData="M125.81,200V187.25L148.56,102.31H127.88V90H163.69V101.44L140.94,187.69H163.19V200H125.81Z"
+          android:fillColor="@color/foreground"/>
+
+    </group>
+</vector>

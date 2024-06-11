@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Znab</string>
+
+    <!-- OnBoarding -->
+    <string name="title_onboard_page_one">Budget Planner</string>
+    <string name="description_onboard_page_one">Easily track your progress throughout the month and adjust your plan as needed.</string>
+
+    <string name="title_onboard_page_two">See Where Your Money Goes</string>
+    <string name="description_onboard_page_two">See exactly where your money is going, identify areas to save, and take control of your financial future.</string>
+
+    <string name="title_onboard_page_three">Digitalize Your Money</string>
+    <string name="description_onboard_page_three">Start your journey of managing money. Everything will be managed the way you have never expect.</string>
+
+    <!-- Google Auth -->
+    <string name="google_btn_label">Continue With Google</string>
+    <string name="google_btn_loading_msg">Signing You In…</string>
+
+    <string name="google_web_client_id">220649144379-snic0rbk4r2mi6uichkdqo7kc9pq3lta.apps.googleusercontent.com</string>
+
+    <!-- Errors -->
+    <string name="err_common">Something went wrong</string>
+    <string name="err_invalid_user">Invalid user</string>
+    <string name="err_user_already_exists">User already exists</string>
+
+</resources>
